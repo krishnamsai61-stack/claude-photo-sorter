@@ -20,7 +20,7 @@ You need a Mac (Windows and Linux work too) and a Claude Pro or Max plan.
 2. Paste this and press Enter:
 
    ```
-   Install and run https://github.com/sukralia/claude-photo-sorter
+   Install and run https://github.com/krishnamsai61-stack/claude-photo-sorter
    ```
 
 3. Claude downloads it, sets it up and opens the dashboard in your browser. Then:
@@ -86,8 +86,4 @@ Every step is also a script in `scripts/` (`scan.py`, `dupes.py`, `label_claude.
 
 ## Credits
 
-Made by [Ashish Sukralia](https://github.com/sukralia). Built on [claude-photo-sorter](https://github.com/kairothq/claude-photo-sorter) by Divy Kairoth (MIT).
-
-## License
-
-MIT. See [LICENSE](LICENSE).
+Made by Krishna.
