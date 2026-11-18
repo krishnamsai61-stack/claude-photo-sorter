@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "photo-sorter",
+      "runtimeExecutable": "./start.sh",
+      "runtimeArgs": ["--no-open"],
+      "port": 8765
+    }
+  ]
+}
